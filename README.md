@@ -14,6 +14,8 @@ I am a backend developer with solid experience in building reliable, maintainabl
 My background includes developing RESTful APIs, system integrations, and applying clean architecture and SOLID principles using Java and PHP.  
 I enjoy working on complex business logic, improving existing systems, and continuously enhancing code quality and performance.
 
+I hold a degree in Internet Systems Technology and I am currently pursuing a Postgraduate specialization in Distributed Software Architecture at PUC Minas, strengthening my expertise in scalable and distributed system design.
+
 ---
 
 ## 🛠️ Skills & Expertise

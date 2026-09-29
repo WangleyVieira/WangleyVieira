@@ -38,4 +38,3 @@ I hold a degree in Internet Systems Technology and I am currently pursuing a Pos
 
 - 💼 LinkedIn: https://www.linkedin.com/in/wangley-vieira  
 - 📧 Email: wangleymsv10@hotmail.com  
-- 🌍 Location: Campo Grande - MS, Brazil
